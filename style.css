@@ -154,6 +154,12 @@ input:invalid {
     width: 60%;
     text-align: left;
   }
+  .info__title {
+    font-size: 4rem;
+  }
+  .info__title__span{
+    font-size: 4rem;
+  }
   .logo__image {
     padding-left: 20%;
   }
